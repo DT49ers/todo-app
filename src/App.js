@@ -1,7 +1,7 @@
 import "./App.css";
 import React, { useState } from "react";
 
-// Functional component
+// Functional component react
 function App() {
   const [todos, setTodos] = useState([]);
   const [input, setInput] = useState("");
